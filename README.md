@@ -1,3 +1,6 @@
+Video's link: https://drive.google.com/file/d/1A5v-RCAjsZI0uY46Ok4Vr0hshwYCbzmI/view?usp=sharing 
+
+
 #  Cardiovascular Disease Prediction System using Machine Learning
 
 This repository contains an end-to-end Machine Learning pipeline designed to explore, preprocess, model, and deploy a predictive system for cardiovascular diseases. The project is fully aligned with academic requirements and leverages data-driven approaches to assist clinical decision-making.
