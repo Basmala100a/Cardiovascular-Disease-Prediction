@@ -69,6 +69,31 @@ In contrast, adjusting the input metrics to simulate high-risk factors (Advanced
 
 ---
 
+---
+
+##  Installation & Dependency Requirements
+To run this project locally, you need to set up the environment and install the pinned core software library packages specified in the `requirements.txt` file.
+
+### Required Libraries & Frameworks:
+* `gradio==3.35.2` : Web framework used for creating the live interactive dashboard UI.
+* `scikit-learn==1.2.2` : Machine learning framework used for model inference and preprocessing.
+* `pandas==2.0.3` : Data structures tool used for standardizing structured inputs into DataFrames.
+* `numpy==1.24.3` : Array processing library for handling data matrices.
+* `joblib==1.2.0` : Object serialization tool used to instantly load the saved model file.
+* `matplotlib==3.7.1` & `seaborn==0.12.2` : Data visualization and exploratory plotting libraries.
+
+---
+
+##  Step-by-Step Guide: How to Run the Project Locally
+
+Follow these sequential terminal commands to pull the repository and launch the application on your machine:
+
+### Step 1: Clone the Repository
+Clone this workspace into your local machine environment:
+```bash
+git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME.git)
+cd YOUR_REPOSITORY_NAME
+
 ##  How to Run the App Locally
 
 ### 1. Install dependencies:
