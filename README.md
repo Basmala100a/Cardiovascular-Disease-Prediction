@@ -42,7 +42,7 @@ The winning model has been serialized into a `heart_disease_rf_model.pkl` file a
 * `ML_Project Basmala Ali.ipynb` : The full data science workflow notebook.
 * `app.py` : Script running the interactive Gradio web deployment.
 * `heart_disease_rf_model.pkl` : The serialized, production-ready Random Forest model.
-* `cardio_train.csv` : Cleaned workspace dataset samples.
+* `cardio_train.csv` : workspace dataset samples.
 * `requirements.txt` : The list of software packages and dependencies.
 * `README.md` : Project documentation guide (This file).
 
