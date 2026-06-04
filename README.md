@@ -12,7 +12,8 @@ This repository contains an end-to-end Machine Learning pipeline designed to exp
 ##  Dataset Overview & Source
 The project utilizes a clinical dataset containing comprehensive cardiovascular health metrics.
 * **Initial Dimensions:** ~70,000 patient records and 13 structural columns.
-* **Dataset Original Source & Download Link:** [Cardiovascular Disease Dataset on Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
+* **Dataset Original Source & Download Link:**  [Cardiovascular Disease Dataset on Kaggle](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
+* **Note:** For evaluation purposes, the tracking data file `cardio_train.csv` is also provided within this workspace directory.
 * **Key Features Analyzed:** Age, Blood Pressure (Systolic/Diastolic), Cholesterol, Glucose levels, Smoking status, Alcohol consumption, Physical activity, and calculated BMI.
 
 ---
