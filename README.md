@@ -2,8 +2,7 @@
 
 > **Project Video Presentation & Live Demo:** [Watch the Demo Video on Google Drive](https://drive.google.com/file/d/1Dk3SJwMojLWcsl0JtHaPXY1H-n9ZeTUW/view?usp=sharing)
 
-This repository contains an end-to-end Machine Learning pipeline designed to explore, preprocess, model, and deploy a predictive system for cardiovascular diseases. The project is fully aligned with academic requirements and leverages data-driven approaches to assist clinical decision-making.
-
+This repository contains an end-to-end Machine Learning pipeline designed to explore, preprocess, model, and deploy a predictive system for cardiovascular diseases. 
 ---
 
 ##  Project Team Members
