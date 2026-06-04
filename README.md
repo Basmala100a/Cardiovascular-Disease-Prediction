@@ -44,6 +44,21 @@ The winning model has been serialized into a `heart_disease_rf_model.pkl` file a
 
 ---
 
+## Deployed Application Showcases & Scenarios
+
+To demonstrate how the interface dynamically consumes the optimized model, here are the testing showcases reflecting the two contrasting real-time scenarios:
+
+### Scenario 1: Healthy Patient Assessment (Low Risk Target)
+When normal clinical measurements (Blood Pressure: 120/80, Normal Cholesterol, and younger age) are supplied, the interface outputs a clear healthy classification.
+
+![Healthy Patient Demo Dashboard](healthy_demo.png)
+
+### Scenario 2: High-Risk Cardiovascular Assessment (High Risk Warning)
+In contrast, adjusting the input metrics to simulate high-risk factors (Advanced Age, Elevated Blood Pressure: 177/105, and Well Above Normal Cholesterol) instantly triggers an operational warning flag.
+
+![High Risk Patient Warning Dashboard](high_risk_demo.png)
+---
+
 ##  Repository Structure
 * `ML_Project Basmala Ali.ipynb` : The full data science workflow notebook.
 * `app.py` : Script running the interactive Gradio web deployment.
