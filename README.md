@@ -34,7 +34,7 @@ We evaluated multiple models using an 80-20 stratified training and validation p
 
 1. **Logistic Regression (Baseline):** `71.60%` Accuracy
 2. **Decision Tree Classifier (Depth=6):** `72.84%` Accuracy
-3. **Random Forest Classifier (Champion Model):** **`73.23%`** Accuracy 🏆
+3. **Random Forest Classifier (Champion Model):** **`73.23%`** Accuracy 
 
 The Random Forest model was selected for application deployment because it strikes the best balance for generalizability and maintains robust evaluation bounds (Precision: $\ge 0.73$, Recall: $\ge 0.74$, F1-Score: $\sim 0.73$).
 ---
